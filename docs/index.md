@@ -31,3 +31,19 @@ Content in the first column | Content in the second column
   ![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 [Avenue](https://avenue.mcmaster.ca/)
+
+ :grin:
+  
+ CH<sub>4</sub>
+ 
+ 
+    if (isAwesome){
+      return true
+    }
+  
+&alpha;
+&#945;
+  
+&delta;<sup>18</sup>O
+  
+&#945;= 2<sup>18</sup>
